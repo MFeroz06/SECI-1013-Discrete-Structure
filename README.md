@@ -67,16 +67,16 @@ Credit : 03
 
 ## 🎒 Continuous Assessment
 ---
-- Quiz 1
-- Quiz 2
-- Quiz 3
-- Quiz 4
-- Test
-- Assignment 1
-- Assignment 2
-- Assignment 3
-- Assignment 4
-- Final Exam
+- Quiz 1 (5%)
+- Quiz 2 (5%)
+- Quiz 3 (5%)
+- Quiz 4 (5%)
+- Test (20%)
+- Assignment 1 (5%)
+- Assignment 2 (5%)
+- Assignment 3 (5%)
+- Assignment 4 (5%)
+- Final Exam (40%)
 ---
 
 
