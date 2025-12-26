@@ -4,9 +4,11 @@
     src="https://readme-typing-svg.demolab.com?font=Courier&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&repeat=false&lines=SECI1013+|+Discrete+Structure" 
     alt="Typing SVG" />
 </p>
-## Credit
+
+## Credit Course
 ---
-Credit Course : 3
+Credit : 03
+
 ---
 
 ## 📝 Course Synopsis
