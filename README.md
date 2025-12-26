@@ -20,7 +20,7 @@ Credit : 03
 
 ## 🏫 Section and Lecturer Information
 ---
-- Section **02**
+- Section : **02**
 - Lecturer Name : Dr. Noorfa Haszlinna binti Mustaffa
 - Office : N28-439-11
 
